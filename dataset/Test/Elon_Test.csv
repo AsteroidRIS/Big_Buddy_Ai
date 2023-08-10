@@ -1,0 +1,647 @@
+heading,content,start,end,tokens,title
+0, I'm still proud of John.,0.0,2.0,9,Elon_test
+1, Woo!,2.0,4.0,4,Elon_test
+2," You know, I taste like him.",4.0,10.0,10,Elon_test
+3," Every time I see that clip, it chills me.",10.0,13.0,13,Elon_test
+4, Every single time.,13.0,15.0,6,Elon_test
+5, And I look at it a lot.,15.0,19.0,10,Elon_test
+6, So thank you very much for coming here.,19.0,21.0,11,Elon_test
+7, I know it's not convenient. It's not around the corner.,21.0,23.0,16,Elon_test
+8, I'm really appreciative.,23.0,25.0,7,Elon_test
+9, Absolutely. Thank you for having me.,25.0,27.0,10,Elon_test
+10," I was on a red eye flight, so I'm a little slower than normal.",27.0,31.0,19,Elon_test
+11, I didn't get much sleep.,31.0,34.0,9,Elon_test
+12, That's sort of my first question.,34.0,37.0,10,Elon_test
+13," Is that, so you're 51?",37.0,40.0,10,Elon_test
+14, Yeah.,40.0,43.0,4,Elon_test
+15, I think I'm safely not a spring chicken anymore.,43.0,47.0,13,Elon_test
+16, It's a late summer chicken.,47.0,49.0,9,Elon_test
+17, I'm 79.,49.0,52.0,6,Elon_test
+18," But just for you, I mean, you look great.",52.0,57.0,14,Elon_test
+19," So you're 51, and you do 16-hour days,",57.0,61.0,15,Elon_test
+20," and you work seven hours a week, and you fly all over the place.",61.0,64.0,18,Elon_test
+21," And you go to these meetings constantly,",64.0,67.0,10,Elon_test
+22, and people constantly criticize you for everything.,67.0,70.0,10,Elon_test
+23," It's amazing to me. I mean, you're changing the world,",70.0,72.0,17,Elon_test
+24," and you're giving yourself, why do you do this?",72.0,74.0,14,Elon_test
+25," So my wife says to me, why are you still working?",74.0,76.0,15,Elon_test
+26, Why are you still working?,76.0,78.0,8,Elon_test
+27, Why are you doing it here?,78.0,80.0,9,Elon_test
+28," Well, I think what I'm working on has an important effect on the future.",80.0,89.0,19,Elon_test
+29," In the case of Tesla, I think it's fair to say that Tesla has significantly accelerated",89.0,95.0,20,Elon_test
+30, the advent of sustainable energy.,95.0,99.0,8,Elon_test
+31," Before Tesla, no one was doing electric cars,",99.0,103.0,12,Elon_test
+32," and now as a result of Tesla, I think almost every major car company in the world",103.0,108.0,20,Elon_test
+33, is building electric cars.,108.0,112.0,7,Elon_test
+34, And that's a pretty big deal.,112.0,116.0,10,Elon_test
+35, But there's still a long way to go to transition the world,116.0,119.0,15,Elon_test
+36, to a sustainable energy economy.,119.0,122.0,8,Elon_test
+37," So we still have a lot of work ahead of us at Tesla,",122.0,125.0,16,Elon_test
+38, but that's our goal there.,125.0,127.0,9,Elon_test
+39," And then for SpaceX, I think it's important for the future to be exciting",127.0,133.0,18,Elon_test
+40, and for humanity's existence to be insured over the long term.,133.0,139.0,16,Elon_test
+41, I think we must become a multi-planet species and a space-bearing civilization.,139.0,144.0,21,Elon_test
+42," You know, I think the...",144.0,148.0,9,Elon_test
+43, We're here like 4.5 billion years after Earth got started.,148.0,157.0,16,Elon_test
+44, 13.8 billion years into the age of the universe.,157.0,162.0,14,Elon_test
+45," And it's only now recently in the last 5,000 years that we even...",162.0,167.0,19,Elon_test
+46, we invented writing.,167.0,168.0,6,Elon_test
+47, I would say date the first civilization by when we...,168.0,172.0,13,Elon_test
+48," there was the first writing, which was in ancient Samaria around 5 or 6,000 years ago.",172.0,180.0,23,Elon_test
+49, So we've basically just been here for a very brief instance.,180.0,185.0,15,Elon_test
+50, A blink.,185.0,186.0,5,Elon_test
+51," All of human civilization is a blink of an eye, if there wasn't eye,",186.0,192.0,19,Elon_test
+52, in an evolutionary timescale.,192.0,195.0,8,Elon_test
+53, So I think it's important we take the actions to ensure that the light of consciousness continues.,195.0,201.0,21,Elon_test
+54," Because we should really view consciousness as a small candle,",201.0,207.0,13,Elon_test
+55, an abast darkness.,207.0,209.0,7,Elon_test
+56, It can easily go out.,209.0,211.0,8,Elon_test
+57, So you have these missions.,211.0,214.0,8,Elon_test
+58," And somehow, whenever you have a mission and you have this vision, and you are a visionary,",214.0,220.0,22,Elon_test
+59," it's somehow, whatever you do, you develop other businesses.",220.0,225.0,15,Elon_test
+60," So when you started SpaceX, you didn't think about satellites.",225.0,229.0,15,Elon_test
+61," When you started Tesla, you didn't think about robots.",229.0,232.0,14,Elon_test
+62," When you don't have enough people, you didn't think about robots.",232.0,235.0,17,Elon_test
+63, And so you didn't think about autonomous driving.,235.0,238.0,12,Elon_test
+64," And without Elon, there would not be electric cars.",238.0,242.0,13,Elon_test
+65, Nobody who makes cars wants to make electric cars.,242.0,245.0,12,Elon_test
+66, They're being forced to make them.,245.0,247.0,10,Elon_test
+67," In fact, every time they sell electric cars, they sell one fewer car that they make money on.",247.0,253.0,23,Elon_test
+68, And they have all that money invested in plants that make those other cars.,253.0,256.0,17,Elon_test
+69, So nobody wants to have these cars except for him.,256.0,259.0,13,Elon_test
+70, And everybody thought it was going to fail.,259.0,262.0,11,Elon_test
+71, And one of the things you said is that patents are for the week.,263.0,268.0,17,Elon_test
+72, And you share your patents.,268.0,271.0,8,Elon_test
+73," And with other companies, of course, on the other hand, when they get your patents,",271.0,275.0,21,Elon_test
+74, you're two or three years ahead of them.,275.0,279.0,12,Elon_test
+75," Well, I mean, I started joking about patents for the week.",279.0,282.0,16,Elon_test
+76, I think there is a role for patents.,282.0,284.0,11,Elon_test
+77," You know, let's say if somebody has spent, if someone company has spent a lot of money developing,",284.0,288.0,24,Elon_test
+78, they're particularly medicine and had to go through the expense of stage three medical trials.,288.0,293.0,19,Elon_test
+79, And then they finally get something that is approved.,293.0,296.0,12,Elon_test
+80," But where the drug itself is cheap to manufacture, then I think a patent in that case makes sense.",296.0,302.0,23,Elon_test
+81," Otherwise, no one would go to the trouble of doing stage three medical trials.",302.0,306.0,18,Elon_test
+82, So there are definitely roles for patents.,306.0,308.0,10,Elon_test
+83," In the case of Tesla, our goal is to advance sustainable energy.",308.0,314.0,16,Elon_test
+84, And we can't just do it by ourselves when we need the whole industry to go that way.,315.0,321.0,22,Elon_test
+85, So we gave them our patents for free in order to help them accelerate electric vehicles.,321.0,328.0,19,Elon_test
+86, So must be terrifying to other companies to realize that we make cars.,328.0,333.0,16,Elon_test
+87," It's $39,000 and costs the car.",333.0,336.0,13,Elon_test
+88," And we're making $15,000, $16,000 and profit a car.",336.0,340.0,20,Elon_test
+89, And so we invest $7 billion and we make $15 billion a year.,340.0,346.0,18,Elon_test
+90," I'm sorry, yeah.",346.0,349.0,8,Elon_test
+91," 15, right.",349.0,351.0,6,Elon_test
+92," A million cars, 15,000, 15,000 a million a year on a $7 million investment.",351.0,357.0,24,Elon_test
+93, Shocking.,357.0,358.0,5,Elon_test
+94, So no one else does that.,358.0,360.0,9,Elon_test
+95," And when we're, and here you're telling us how you want to make cars for $20,000 a piece.",360.0,366.0,27,Elon_test
+96, How do you do that?,366.0,369.0,8,Elon_test
+97, We've not formally announced an X-Car program.,370.0,374.0,13,Elon_test
+98, So I can't talk too much about our upcoming vehicle program or programs that have not been announced.,374.0,382.0,22,Elon_test
+99, But we do expect to make cars that are more affordable than the current Model 3 Model Y.,382.0,392.0,21,Elon_test
+100," And a big factor in this is, yeah.",392.0,396.0,12,Elon_test
+101, I think by far the biggest factor is autonomy.,396.0,405.0,12,Elon_test
+102," And the, in terms of value of a car, because right now cars get driven for about 10 or 12 hours a week,",405.0,415.0,28,Elon_test
+103, like maybe one and a half hours a day.,415.0,419.0,12,Elon_test
+104," So, but there's 168 hours a week.",420.0,424.0,13,Elon_test
+105," And so if there were autonomous, you could probably drive, the cars could drive for 50 or 60 hours.",424.0,429.0,24,Elon_test
+106, So you would see a five-fold increase in the utility of the car that could be autonomy.,429.0,437.0,22,Elon_test
+107," This is a really, really gigantic thing.",437.0,440.0,11,Elon_test
+108," It also means that there was, we wouldn't need anywhere near as many parking lots.",440.0,445.0,20,Elon_test
+109, And the should also be helpful for the environment because you would need far fewer cars.,446.0,451.0,19,Elon_test
+110, So I'm a spoke.,451.0,453.0,8,Elon_test
+111, It was a $7 billion investment for a plant that makes a million cars a year that makes $15 billion in your own profits.,453.0,459.0,29,Elon_test
+112, So you invest $7 billion and you make $15 billion a year.,459.0,463.0,17,Elon_test
+113, Who does that?,463.0,464.0,6,Elon_test
+114," And for a plant that makes, you know, things, manufacturing.",464.0,470.0,16,Elon_test
+115, And so the way this is accomplished is that so you're doing it with casting right now.,471.0,476.0,21,Elon_test
+116, And casting half of the car and you can soon cast the other half of the car.,476.0,480.0,20,Elon_test
+117," And other companies, why don't they try?",480.0,483.0,12,Elon_test
+118," Why don't they try to do the, do what we're doing?",483.0,486.0,17,Elon_test
+119," In fact, one of the executives of another one of a vehicle company wanted me to introduce her to you.",486.0,493.0,24,Elon_test
+120," And you did that once in a meeting and now she wants to come visit with her director of engineering,",493.0,498.0,23,Elon_test
+121, and she wants to go to the plant in Austin.,498.0,501.0,13,Elon_test
+122," And I presume when I ask you, you're going to say, yeah, bring her on because you innovate so fast by the time anyone copies what we're doing,",501.0,508.0,36,Elon_test
+123, it's around to something else.,508.0,510.0,9,Elon_test
+124, What else is there?,510.0,511.0,7,Elon_test
+125," When you're casting, what else is there that enables us to make a cheaper,",511.0,516.0,19,Elon_test
+126, to eliminate a lot of other parts or eliminate functions?,516.0,519.0,13,Elon_test
+127, What are we doing to do that?,519.0,522.0,10,Elon_test
+128, How would we sell a car that's so cheap?,522.0,525.0,13,Elon_test
+129," I mean, I think the full explanation or at least an accurate explanation would take a long time,",526.0,532.0,22,Elon_test
+130," because first approximation of cars made of 10,000 unique parts and process steps.",532.0,539.0,18,Elon_test
+131," And I mean, Tesla is really, I think at this point, probably the best at manufacturing in the auto industry,",539.0,548.0,26,Elon_test
+132, which I think nobody was expecting.,548.0,551.0,9,Elon_test
+133, Probably in history of the world.,551.0,553.0,9,Elon_test
+134, Probably.,553.0,555.0,4,Elon_test
+135," Yeah, so, well, I've got this like first principles algorithm that are fine to be very helpful in the design and manufacturing of anything.",555.0,574.0,31,Elon_test
+136, And people here may find it helpful.,574.0,579.0,10,Elon_test
+137, The first thing you should do is make the requirements that you've been given a less dumb.,580.0,589.0,21,Elon_test
+138," Whatever constraints and requirements were given, there were some degree dumb and you want to make them less dumb.",589.0,595.0,23,Elon_test
+139," If you don't do the start with this, then you can answer the right answers to the wrong question.",595.0,603.0,24,Elon_test
+140," And the requirements must be given from a person who can explain the requirement, not from a department,",603.0,611.0,22,Elon_test
+141, because then you don't know who to talk to.,611.0,614.0,13,Elon_test
+142, Then step two is delete the part or delete the process step.,614.0,620.0,15,Elon_test
+143, This sounds extremely obvious.,620.0,623.0,7,Elon_test
+144," And yet over and over again, we have found that parts were not needed.",623.0,629.0,18,Elon_test
+145, They were just put in there just in case or by mistake.,629.0,634.0,15,Elon_test
+146," Or there was a step that people someone thought was needed, but was not actually needed.",634.0,639.0,20,Elon_test
+147," The sounds saying the obvious, but we've deleted so many parts from the car that were did nothing.",639.0,647.0,23,Elon_test
+148, They were just there?,647.0,648.0,7,Elon_test
+149," Well, yeah, I mean, I have so many examples.",648.0,654.0,15,Elon_test
+150, One example was there were three fiberglass mats on top of the battery pack.,654.0,661.0,18,Elon_test
+151, They partially covered the battery pack.,661.0,664.0,9,Elon_test
+152, And it was on the battery pack production line.,664.0,667.0,12,Elon_test
+153, And it was the number one thing choking battery pack production.,667.0,671.0,14,Elon_test
+154, These were gluing on these three fiberglass mats at the top of the battery pack.,671.0,676.0,20,Elon_test
+155, And so the reason I repeat the cell phone myself is that I first did things backwards.,676.0,682.0,20,Elon_test
+156, First I tried to automate it.,682.0,685.0,9,Elon_test
+157," Then I tried to accelerate it, just have the scope faster.",685.0,690.0,15,Elon_test
+158, Then I tried to simplify it.,690.0,693.0,9,Elon_test
+159, And only then did I delete it.,693.0,697.0,10,Elon_test
+160, Because it turned out that the the the team that tells us that there's noise and vibration minimization.,697.0,709.0,23,Elon_test
+161, So making making the car quiet.,709.0,712.0,9,Elon_test
+162, Thought that the fiberglass mats were there because of the battery safety team for to battery fire production.,712.0,719.0,22,Elon_test
+163," And then I asked the battery fire prevention team what were they needed for and they said, oh, noise and vibration.",719.0,726.0,26,Elon_test
+164," And I'm like, okay.",726.0,729.0,9,Elon_test
+165, So then we had two cars drive one with a microphone in the car in each car.,729.0,735.0,20,Elon_test
+166, And you could not tell the difference.,735.0,738.0,10,Elon_test
+167, So we went to all that trouble for a part that should not exist.,738.0,742.0,17,Elon_test
+168, And then another another example was there was a.,742.0,747.0,12,Elon_test
+169," Again, this was like these were choke points in the entire production system.",747.0,750.0,17,Elon_test
+170, That's why they you know I'm running around the production line trying to fix the production line.,750.0,754.0,22,Elon_test
+171, Just like a maniac.,754.0,756.0,7,Elon_test
+172, It was a Tasmanian devil just running around the factory like a lunatic.,756.0,761.0,19,Elon_test
+173, And let's see we had the body production line a model through with one point stuck because we had a laser welding cell to weld a small cross car beam in the passenger footwell of the front seats.,761.0,778.0,43,Elon_test
+174," And I'm like at this sort of this beam and I'm like, what the heck does that do?",778.0,783.0,24,Elon_test
+175, Because the entire factory stopped trying to try to get the laser weld cell to work.,783.0,791.0,19,Elon_test
+176," And I'm like, I can't imagine what a useful thing it could do.",791.0,795.0,19,Elon_test
+177," And the team said the production team said, oh, that's for crash safety.",795.0,799.0,19,Elon_test
+178," So then I called the crash safety team and said, is this for crash safety?",799.0,803.0,19,Elon_test
+179," And I said, oh no, that didn't do anything. We should delete it.",803.0,808.0,20,Elon_test
+180, I turned out to be totally useless.,808.0,810.0,10,Elon_test
+181, But they forgot to tell the production team.,810.0,813.0,11,Elon_test
+182," So, so I see a bunch of these things just feel like you're living in a Dilbert cartoon.",813.0,820.0,24,Elon_test
+183," Oh no, what's our what?",820.0,822.0,10,Elon_test
+184, Any given company?,822.0,824.0,6,Elon_test
+185, What's your Dilbert ratio?,824.0,826.0,9,Elon_test
+186, Okay.,826.0,827.0,4,Elon_test
+187, It's not zero.,827.0,829.0,7,Elon_test
+188, So is this you or is this your goal?,829.0,832.0,12,Elon_test
+189, Dilbert question. Try to keep it low.,832.0,834.0,12,Elon_test
+190, So is this you or is this you?,834.0,837.0,11,Elon_test
+191, So you do all these different things.,837.0,839.0,10,Elon_test
+192, That's literally me.,839.0,841.0,7,Elon_test
+193, So do you have someone else who did this?,841.0,843.0,12,Elon_test
+194, I was living in the factory in Fremont and the one in Nevada for three years straight.,843.0,851.0,22,Elon_test
+195, It was my primary residence.,851.0,853.0,8,Elon_test
+196," Not kidding, literally.",853.0,854.0,7,Elon_test
+197, Did you keep the couch?,854.0,856.0,8,Elon_test
+198, I actually stepped a reception account at one point on a tent on the roof.,856.0,862.0,18,Elon_test
+199," And then for a while there I was just sleeping under my desk, which is out in the open in the factory.",862.0,870.0,26,Elon_test
+200, And for an important reason.,870.0,872.0,8,Elon_test
+201, And it was damn uncomfortable sleeping on that floor.,872.0,874.0,12,Elon_test
+202, And always when I woke up I'd smell like metal dust.,874.0,877.0,15,Elon_test
+203, We went to visit and they bought him a new couch.,877.0,880.0,14,Elon_test
+204, Yeah.,880.0,881.0,4,Elon_test
+205," But actually I stopped using the couch in the, in the, in the, because there's a little conference room in a couch there.",881.0,886.0,30,Elon_test
+206, I stopped using the couch.,886.0,887.0,8,Elon_test
+207," I just stepped on the floor under my desk so that the, so during shift change the entire team could see me.",887.0,894.0,26,Elon_test
+208," And this is important because like, you know, the, the team, like, if, if, if they think that the, the sort of, the leader is, is off somewhere having a good time, you know, drinking my ties on a tropical island, which I could definitely have to do.",894.0,910.0,64,Elon_test
+209," And, and would much have preferred to do.",910.0,913.0,12,Elon_test
+210," I'm not, I'm not actually a masochist, I think.",913.0,918.0,18,Elon_test
+211," But, but the thing is that since the team could see me sleeping on the floor.",918.0,923.0,20,Elon_test
+212, During shift change.,923.0,926.0,6,Elon_test
+213, It was just not with nothing.,926.0,930.0,9,Elon_test
+214," The, the new I was there.",930.0,932.0,10,Elon_test
+215, And that made a huge difference.,932.0,934.0,9,Elon_test
+216, And then they gave it their all.,934.0,936.0,10,Elon_test
+217," So, so the focus is on always lowering costs and providing leadership.",936.0,945.0,16,Elon_test
+218," And, and this company we're doing a million and a half cars a year, but expected to 20.",945.0,951.0,24,Elon_test
+219," And, and so what happens in 10 years if you're not there?",951.0,955.0,17,Elon_test
+220, What happens in five years if you're not there?,955.0,957.0,13,Elon_test
+221, How does that work?,957.0,958.0,7,Elon_test
+222," I mean, all these people, so it all the engineering schools, the top engineering schools, the top choice of where everybody wants to work.",958.0,965.0,31,Elon_test
+223, It's test their space X.,965.0,968.0,9,Elon_test
+224, Those two places.,968.0,969.0,6,Elon_test
+225," So, do we have all these people coming up and finding each other for the job or the working together?",969.0,975.0,24,Elon_test
+226," How do you get people to say, gee, I could buy that real expensive house, but I'm not going to do that.",975.0,980.0,29,Elon_test
+227," Boy, I could buy, I could go out and vacation.",980.0,983.0,15,Elon_test
+228," I'm not going to, I was, I'm going to, I was, I'm going to, I was, I'm going to, I was, I'm going to do that.",983.0,986.0,42,Elon_test
+229, But we do have that problem a little bit.,986.0,989.0,12,Elon_test
+230," So, you know, as a company has prosperity.",989.0,992.0,13,Elon_test
+231," So, you know, if you become wealthy, then for a lot of people, you know, that, once they become past, it's sort of independently wealthy.",992.0,1001.0,36,Elon_test
+232," They, they just can't bring themselves to work or they're just, they don't want to work.",1001.0,1005.0,24,Elon_test
+233," And that's totally, you know, our established law, no judgment.",1005.0,1008.0,17,Elon_test
+234," And, and some, I mean, I have a lot of friends who, who are extremely talented.",1008.0,1013.0,23,Elon_test
+235," And they, they, you know, that's some success earlier in life.",1013.0,1018.0,18,Elon_test
+236," And I'm excited, you know, that was enough trauma.",1018.0,1021.0,15,Elon_test
+237," I mean, you know, one of my, one of my good friends am I insane, like, for, for starting a company is like eating glass and staring into the abyss.",1021.0,1033.0,40,Elon_test
+238," So, so my people will say it and tell me like, what can you do to encourage entrepreneurs to start companies?",1033.0,1041.0,26,Elon_test
+239," I'm like, if you need encouragement, don't start a company.",1041.0,1045.0,17,Elon_test
+240, Thank you.,1045.0,1048.0,5,Elon_test
+241," In, in, in SpaceX.",1049.0,1060.0,9,Elon_test
+242," And so we have, no, competitors sort of, yes.",1060.0,1065.0,15,Elon_test
+243," So, SLS. And, you know, I read about, that's not it, you know.",1065.0,1071.0,24,Elon_test
+244," It's just, it's just Boeing North have been lucky.",1071.0,1075.0,15,Elon_test
+245," And with those guys, when they build the launching pad, it took them like, like 10 years and billions of dollars.",1075.0,1083.0,27,Elon_test
+246, And we had a build with launching pad.,1083.0,1086.0,11,Elon_test
+247," And of course, a few hundred million dollars and did it in six months.",1086.0,1089.0,18,Elon_test
+248," And, and then I was interested in how that was done.",1089.0,1094.0,15,Elon_test
+249," And a woman I'm talking to says that, Ron, did you see the plumbing when you went there?",1094.0,1100.0,24,Elon_test
+250," And I said, why should I cost hundreds of million dollars? It looks like it's, it's a landing field.",1100.0,1104.0,27,Elon_test
+251," And I said, would you see what's underneath? Did you see the plumbing? I said, no, they didn't show that to me.",1104.0,1109.0,32,Elon_test
+252," And she said, well, you should be aware that there's all these pipes that take away the heat.",1109.0,1114.0,24,Elon_test
+253," And then they all deliver fuel to the rocket and it has to be there in exact, right amount at the exact right time.",1114.0,1121.0,28,Elon_test
+254," And if it's not, that doesn't happen, it blows up.",1121.0,1123.0,17,Elon_test
+255," And I said, well, how does Elon know this?",1123.0,1126.0,14,Elon_test
+256," And because you hire these great people and then you ask them all these questions,",1126.0,1131.0,18,Elon_test
+257, then somehow you remember everything I tell you. Is that true?,1131.0,1135.0,15,Elon_test
+258," Well, my memory for technical matters is very good.",1135.0,1140.0,13,Elon_test
+259," But I think probably a lot of people don't realize, like what I do, apes in the time is engineering.",1140.0,1149.0,27,Elon_test
+260," So, you know, it's quite actually quite rare for me to give a talk.",1149.0,1154.0,20,Elon_test
+261, And my day to day work at SpaceX and Tesla is almost entirely engineering and design.,1154.0,1163.0,19,Elon_test
+262," So, and also production, production is key, but although I consider that to be part of engineering.",1163.0,1172.0,23,Elon_test
+263," Yeah, so, but Starship is something special.",1172.0,1181.0,13,Elon_test
+264," The thing that is, like the holy grail, like the critical breakthrough needed to make life multiplanetary and for humanity to be a space-bearing civilization is a fully and rapidly reusable rocket, open rocket.",1181.0,1199.0,47,Elon_test
+265, And so we've gone most of the way there with Falcon 9.,1199.0,1203.0,16,Elon_test
+266, You may have seen the rocket boost to come back and land.,1203.0,1206.0,15,Elon_test
+267, And we also recover the nose cone or faring.,1206.0,1210.0,13,Elon_test
+268, But we do not recover the upper stage.,1210.0,1213.0,11,Elon_test
+269," So, we've gone to the point where we're about, you know, 70 to 80% reusable with Falcon 9.",1213.0,1222.0,27,Elon_test
+270," With Starship, we're going for 100% reusable.",1222.0,1227.0,14,Elon_test
+271," I cannot, it's able to say how profound a change this will be.",1227.0,1231.0,18,Elon_test
+272," But a fully and rapidly reusable, open rocket has the potential to drop the cost of access to the rocket.",1231.0,1239.0,24,Elon_test
+273," So, it's a very, very big rocket.",1239.0,1242.0,13,Elon_test
+274, It's more than twice the thrust of a Saturn V and about twice the mass.,1242.0,1263.0,19,Elon_test
+275," And it's also, the entire ship is designed to land propulsively.",1263.0,1269.0,18,Elon_test
+276," So, it can land propulsively.",1269.0,1272.0,11,Elon_test
+277," To land on its engines, land propulsively.",1272.0,1274.0,13,Elon_test
+278," So, it can land on any solid surface in the solar system.",1274.0,1278.0,16,Elon_test
+279," So, if we can make Starship work, then it enables us to, over time, get anywhere in the solar system.",1278.0,1286.0,28,Elon_test
+280," So, why is it so hard?",1286.0,1288.0,10,Elon_test
+281, Why don't other people do the same thing?,1288.0,1290.0,12,Elon_test
+282, Everyone says it's impossible.,1290.0,1292.0,8,Elon_test
+283, And how much harder is it to do what we're trying to do than we're doing with Falcon?,1292.0,1298.0,23,Elon_test
+284," Well, so, it's a...",1298.0,1302.0,10,Elon_test
+285, Both gravity is actually quite strong and we have a thick atmosphere.,1302.0,1307.0,15,Elon_test
+286," So, with known physics, it is only barely possible to make a fully reusable orbital rocket.",1307.0,1314.0,21,Elon_test
+287, Only barely possible.,1314.0,1317.0,6,Elon_test
+288, This was a video game that the setting is to extreme difficulty.,1317.0,1321.0,15,Elon_test
+289," Not impossible, but extreme difficulty.",1321.0,1325.0,9,Elon_test
+290, Because it's not like those who have developed rockets before weren't aware of reusability.,1325.0,1331.0,20,Elon_test
+291, They were fully aware of the rockets.,1331.0,1334.0,10,Elon_test
+292, They're fully aware of reusability.,1334.0,1336.0,10,Elon_test
+293, They'll aircraft and cars are reusable.,1336.0,1339.0,10,Elon_test
+294," It's just that in order for a rocket to be reusable, everything has to be perfect.",1339.0,1345.0,21,Elon_test
+295," So, you have to have exceptionally efficient engines.",1345.0,1350.0,12,Elon_test
+296, You have to have an exceptionally efficient structure.,1350.0,1354.0,11,Elon_test
+297, You need advanced avionics and software.,1354.0,1358.0,11,Elon_test
+298, You need a very lightweight heat shield for orbital reentry.,1358.0,1365.0,14,Elon_test
+299, And then another key factor for traveling to Mars is you need orbital refilling.,1365.0,1371.0,18,Elon_test
+300," So, that you get the ship to orbit and then you send up tankers to refill the ship in orbit.",1371.0,1378.0,25,Elon_test
+301, That is done by the Air Force with aerial refueling.,1378.0,1384.0,15,Elon_test
+302, Those are the things that are necessary.,1384.0,1388.0,10,Elon_test
+303, It's never been achieved before.,1388.0,1392.0,9,Elon_test
+304, There have been many attempts to achieve it.,1392.0,1396.0,11,Elon_test
+305, And they've all failed.,1396.0,1399.0,8,Elon_test
+306, And usually they had counseled the program partway through once they thought it was no longer possible.,1399.0,1406.0,22,Elon_test
+307," So, it's a very difficult engineering challenge.",1406.0,1409.0,12,Elon_test
+308," So, SLS is supposed to get to the moon.",1409.0,1412.0,14,Elon_test
+309, They got a contract in 2010.,1412.0,1415.0,9,Elon_test
+310," It was supposed to be for $10 billion, but it was cost plus.",1415.0,1419.0,18,Elon_test
+311, It's now up to $40 billion and they say it's going to be $100 billion and $90 billion.,1419.0,1424.0,26,Elon_test
+312, And we haven't gotten anything.,1424.0,1427.0,9,Elon_test
+313, And we have our rocket is 10 meters taller than theirs.,1427.0,1433.0,14,Elon_test
+314, And we can reuse ours.,1433.0,1436.0,8,Elon_test
+315, How can anyone possibly compete if they're not doing what we're doing?,1436.0,1440.0,17,Elon_test
+316, How can they compete?,1440.0,1442.0,7,Elon_test
+317, I don't understand.,1442.0,1444.0,7,Elon_test
+318, And how can they get contracts?,1444.0,1446.0,9,Elon_test
+319, And then I just saw something from NASA.,1446.0,1448.0,11,Elon_test
+320," And they said that we're spending $20 billion a year and by the way that's the $360,000 jobs in all of these congressional districts.",1448.0,1458.0,33,Elon_test
+321," Well, I think this, I'm be careful of what I say here.",1458.0,1465.0,18,Elon_test
+322, I have enough enemies.,1465.0,1470.0,7,Elon_test
+323," I would like to have, you know, I think, I think, yes, I would like to have smaller, smaller number of companies that want me to die.",1470.0,1486.0,36,Elon_test
+324, That would be great.,1486.0,1493.0,7,Elon_test
+325," So, I think part of this is like, what's the goal?",1493.0,1503.0,17,Elon_test
+326," In the case of Starship, the goal is to lower the cost of access to orbit and ultimately to Mars and the moon and elsewhere,",1503.0,1514.0,30,Elon_test
+327," to the point where humanity can actually afford to become a multi-planet species, to the point where we can afford to have a permanent base on the moon,",1514.0,1523.0,35,Elon_test
+328," and ultimately far exceed the high watermark of Apollo, which was incredible.",1523.0,1528.0,17,Elon_test
+329," And I think inspiring to all of humanity, everyone.",1528.0,1532.0,13,Elon_test
+330," If you would ask people, I think, what was in any country, not Americans, anyone?",1532.0,1540.0,22,Elon_test
+331," What was the greatest, what was humanity's greatest achievement in the 20th century?",1540.0,1545.0,19,Elon_test
+332, Maybe everyone.,1545.0,1547.0,5,Elon_test
+333, Let's go to the moon.,1547.0,1549.0,9,Elon_test
+334," And that's why they say, Ruchot as a metaphor, because that was incredible.",1549.0,1557.0,21,Elon_test
+335," You know, it's still amazing that there was achieved.",1557.0,1561.0,14,Elon_test
+336," In fact, a lot of people asked me, was it real?",1561.0,1564.0,16,Elon_test
+337," I'm like, yeah, it was real.",1564.0,1567.0,12,Elon_test
+338," Well, it was probably on Twitter, that's where they asked that.",1567.0,1570.0,17,Elon_test
+339, Yeah.,1570.0,1576.0,4,Elon_test
+340," I mean, that was just an incredible achievement.",1576.0,1579.0,12,Elon_test
+341," And I think it's just one of those things that, you know, going to the moon makes Ruchot be a member of humanity.",1579.0,1587.0,31,Elon_test
+342," You know, it's like for all mankind.",1587.0,1591.0,12,Elon_test
+343," That's, it was for all mankind.",1591.0,1594.0,11,Elon_test
+344, So it's amazing achievements.,1594.0,1598.0,8,Elon_test
+345, And now we have this web telescope.,1598.0,1601.0,10,Elon_test
+346, I guess the big bang was 14 billion years ago.,1601.0,1604.0,13,Elon_test
+347, And first light is 13 and a half billion years ago.,1604.0,1607.0,14,Elon_test
+348, And our planet's 4 and a half billion.,1607.0,1609.0,12,Elon_test
+349, So what did we get out of this?,1609.0,1611.0,11,Elon_test
+350," What is the, you know, so I, so obviously Starling, a really big deal.",1611.0,1616.0,22,Elon_test
+351," The trained dollar opportunity, maybe, maybe more.",1616.0,1620.0,12,Elon_test
+352," And, so what do we get out of seeing back 13 and a half billion years?",1620.0,1629.0,20,Elon_test
+353, What does that do for us?,1629.0,1631.0,9,Elon_test
+354, What technology do we develop?,1631.0,1632.0,8,Elon_test
+355, Or do we know?,1632.0,1633.0,7,Elon_test
+356, We don't know until we do it.,1633.0,1635.0,11,Elon_test
+357," Yeah, I think.",1635.0,1638.0,7,Elon_test
+358, Yeah.,1638.0,1645.0,4,Elon_test
+359," I think like this, too, there's two main motivations, I think, for becoming a multi-planet species",1646.0,1652.0,26,Elon_test
+360, and a space-breaking civilization and ultimately going beyond that to go to other star systems and explore the galaxy.,1652.0,1662.0,24,Elon_test
+361, And I think we may find that there's many one planet civilizations that died out millions of years ago and never made it to the second planet.,1662.0,1670.0,31,Elon_test
+362, Do you think in your lifetime that's happens?,1670.0,1673.0,12,Elon_test
+363," Well, it turns out how long I live.",1673.0,1676.0,12,Elon_test
+364, Maybe forever.,1676.0,1678.0,5,Elon_test
+365, I keep increasing that enemy's lives listed might not be much longer.,1678.0,1685.0,16,Elon_test
+366, We deeply ironic if someone angry on Twitter that takes me out.,1685.0,1693.0,15,Elon_test
+367," Well, that's, he's a wolf Twitter.",1693.0,1695.0,13,Elon_test
+368," Yeah, exactly.",1695.0,1697.0,6,Elon_test
+369," Anyway, I think there's two reasons for life to become multi-planetary.",1697.0,1705.0,20,Elon_test
+370, Life as we know it to become multi-planetary.,1705.0,1707.0,15,Elon_test
+371," I think one is the defensive reason where we just, I think, we want the light of consciousness to not be extinguished if something would happen to Earth.",1707.0,1716.0,35,Elon_test
+372," And in the case of the dinosaurs, they only have to worry about meteors and two volcanoes and other things.",1716.0,1724.0,25,Elon_test
+373," But for us humans, we actually have the power to destroy ourselves with nuclear weapons or some sort of, you know, crazy bio terrorism thing.",1724.0,1736.0,31,Elon_test
+374," So, you know, so the some danger that is not zero that could cause the end of life on Earth as we know it.",1736.0,1747.0,29,Elon_test
+375, So that's kind of the defensive reason to ensure that life is not just an end consciousness.,1747.0,1752.0,21,Elon_test
+376, It's just it's not only on Earth that that's the defensive reason to protect the future of consciousness.,1752.0,1760.0,24,Elon_test
+377," Then the other big reason, I think, is that it's exciting and it's it's adventurous and it's it's it's inspiring.",1760.0,1771.0,31,Elon_test
+378," It makes it like it makes you think positively about the future, you know, and life can't just be about solving one problem or another.",1771.0,1783.0,31,Elon_test
+379, There needs to be reasons to be inspired.,1783.0,1786.0,11,Elon_test
+380," You know, reasons that move your heart and say yes, the future is going to be great.",1786.0,1791.0,22,Elon_test
+381," And when you get out, you know, when you wake up in the morning, I can't wait to see what happens next.",1791.0,1796.0,29,Elon_test
+382," And I think that's, you know, humanity, go to Mars, even if you don't yourself want to go to Mars and most people don't just just watch it.",1796.0,1807.0,38,Elon_test
+383," It's a tough gig, frankly.",1807.0,1810.0,10,Elon_test
+384, This would this would not be a luxury expedition.,1810.0,1814.0,12,Elon_test
+385, And but but but you'd be able to watch it happen.,1814.0,1817.0,15,Elon_test
+386, And I think it would just be incredibly inspiring to the world in the same way that the Apollo program was inspiring to the world.,1817.0,1823.0,28,Elon_test
+387," And like I said, there's got to be life can't just be about solving one problem or another.",1823.0,1828.0,24,Elon_test
+388, We need things that are that make us excited and inspired about the future and that would be one of them.,1828.0,1835.0,24,Elon_test
+389, So let's go to Twitter just for a minute and we'll go back to this stuff which is more interesting to me.,1835.0,1847.0,27,Elon_test
+390, I try to get out of the deal.,1847.0,1852.0,11,Elon_test
+391, I told me you wanted to ask you get out.,1852.0,1857.0,13,Elon_test
+392, I'm not that seen from the Godfather basically.,1857.0,1860.0,13,Elon_test
+393, But you told me you wanted to ask tough questions.,1860.0,1864.0,13,Elon_test
+394, I try to get.,1864.0,1869.0,7,Elon_test
+395, So so in Twitter.,1869.0,1872.0,7,Elon_test
+396, What could possibly go wrong?,1872.0,1877.0,8,Elon_test
+397, So I saw this article.,1877.0,1880.0,8,Elon_test
+398, Says you what something called Twitter.,1880.0,1884.0,9,Elon_test
+399, And it says must put so off lifting Twitter bands.,1884.0,1888.0,13,Elon_test
+400, And so obviously the big deal in to me anyway in in Twitter is that so we have this incredible.,1888.0,1896.0,23,Elon_test
+401, So it's incredibly poorly managed this business.,1896.0,1900.0,11,Elon_test
+402, But those guys somehow did great for their shareholders by selling it to us.,1900.0,1907.0,17,Elon_test
+403, But we didn't buy what they're selling.,1907.0,1909.0,12,Elon_test
+404, We bought something of what is going to become.,1909.0,1912.0,12,Elon_test
+405, Yes.,1912.0,1913.0,4,Elon_test
+406, I mean I think it's a most people would say like given where how the market has evolved this year the price is on the high side.,1913.0,1923.0,31,Elon_test
+407, Right.,1923.0,1924.0,4,Elon_test
+408, But that's on the base of what it is.,1924.0,1926.0,13,Elon_test
+409, But in terms of what what I think there is a tremendous amount of potential.,1926.0,1931.0,18,Elon_test
+410, That it will be very difficult to achieve but I think possible.,1931.0,1935.0,15,Elon_test
+411, And I think ultimately it could be one of the most valuable companies in the world.,1935.0,1940.0,19,Elon_test
+412, So so when we think about this in order for that to happen.,1940.0,1945.0,16,Elon_test
+413, In order for that so I met you and took me a few years and then I believe in you and your heart.,1945.0,1953.0,26,Elon_test
+414, Right.,1953.0,1954.0,4,Elon_test
+415, And I think you're a skeptical at our first meeting you were a bit skeptical.,1954.0,1960.0,19,Elon_test
+416, And so so the way I think about it is that so I'm trusting you with the future of our country or the world actually when you're in charge of a media like that.,1960.0,1970.0,39,Elon_test
+417, And so what I think about is so how do you prevent to be in Jewish.,1970.0,1975.0,19,Elon_test
+418, How do you prevent this anti-Semitism or if I were black how do you prevent all of the.,1975.0,1982.0,24,Elon_test
+419, So to how do you prevent the use of the N word and when I think about tiktok and they're able.,1982.0,1992.0,27,Elon_test
+420, We're just looking at pictures to tell what you're going to do you know you move your left arm you move your right arm what you other pictures you like.,1992.0,2000.0,35,Elon_test
+421, That's what they do with their software and they great their algorithm.,2000.0,2003.0,16,Elon_test
+422, How can we not have an amazing algorithm because we know more about them do with tiktok.,2003.0,2009.0,22,Elon_test
+423, And we ought to know what interests people have and and because of that in words we should be able to figure out words that people are using what that means and considering what they.,2009.0,2021.0,38,Elon_test
+424, Content they're interested in we should be able to figure out the software how to moderate this and prevent that from happening is that true or not.,2021.0,2028.0,31,Elon_test
+425," Yes, yes absolutely.",2028.0,2030.0,7,Elon_test
+426, It's only agreed.,2030.0,2033.0,7,Elon_test
+427, I want to be clear the.,2033.0,2036.0,9,Elon_test
+428, You know content moderation policies have not changed at Twitter and it is not not OK to engage in hateful conduct on Twitter.,2036.0,2047.0,27,Elon_test
+429, So we have had like actually oddly like targeted attacks where temporarily people have been able to put some hate speech on Twitter but.,2047.0,2064.0,27,Elon_test
+430, And then it's been taken down immediately so now.,2064.0,2070.0,13,Elon_test
+431, I don't want to try to achieve with the sort of enabling everyone to be payment verified with with Twitter blue is to try to get as many people.,2070.0,2080.0,33,Elon_test
+432, Payment verified as possible it's only eight bucks a month.,2080.0,2085.0,15,Elon_test
+433, Although for some people that we're complaining about that and these are people who pay more with the net for their lots of.,2085.0,2091.0,27,Elon_test
+434, How many of you want your.,2091.0,2094.0,9,Elon_test
+435, But it's like a part of its revenue part of it is payment authentication and so if somebody because there is a huge problem with spam and and bots and trolls on Twitter and organizations trying to manipulate public opinion and just just generally making the system worse.,2094.0,2117.0,52,Elon_test
+436, I think but I think that there is an answer to that which is to get as many regularly uses of Twitter to be a subscriber for eight dollars a month and you'll get a lot more than just the blue checkmark for eight dollars a month because now we can afford long form video long long audio podcasts.,2117.0,2137.0,64,Elon_test
+437, And we can also start sharing revenue with content creators which is essential.,2137.0,2142.0,16,Elon_test
+438, So I think that's the right way to make them a chance to make money.,2142.0,2145.0,19,Elon_test
+439, Yeah absolutely just so I mean right now if you're on Twitter you'll see a lot of links posted to YouTube and and TikTok and that's because at least until now Twitter is not allowed even given them enough video length to post their video.,2145.0,2160.0,51,Elon_test
+440, And then they give the content creators no means monetizing the video so we're going to change that rapidly at Twitter that's going to be transformative.,2160.0,2169.0,32,Elon_test
+441, So we're going to do that with the users and we're going to prioritize Twitter search replies mentions by verified users first.,2169.0,2181.0,27,Elon_test
+442, And yeah that's what get him that's what calls amplified.,2181.0,2185.0,15,Elon_test
+443, So the so if you payment verified with blue checkmark then you'll be prioritized.,2185.0,2192.0,20,Elon_test
+444, And so this the point of this is to make crime not pay because right now to create a bot on Twitter class less than a penny.,2192.0,2204.0,30,Elon_test
+445, So the cost of crime is so cheap and that's part of why crime and hate for conduct pays but if somebody risks losing even eight bucks that they or it's too expensive to now have a hundred thousand fake accounts.,2204.0,2219.0,46,Elon_test
+446, Is that just been eight hundred thousand dollars a month as opposed to you know eight hundred dollars a month.,2219.0,2228.0,23,Elon_test
+447, So and then we also since we're using payment authentication we're picking on the authentication system of the payment system and we're also picking off of apples authentication system which is another layer of security.,2228.0,2243.0,41,Elon_test
+448, So the net effect will be over time that the verified users will be will pretty much always be at the top of comments and search and you won't really see you'll have to scroll far to see the un verified users which will be the bots and trolls and whatnot.,2243.0,2262.0,56,Elon_test
+449, So this is sort of analogous to Google search like if you go to page eight of Google search there will be a ton of scams and and stuff you know call it page eight page nine something like that.,2262.0,2279.0,45,Elon_test
+450, And the thing is that Google search results are so good for page one that you never go to page eight.,2279.0,2286.0,24,Elon_test
+451, So it's rare and like the old joke is like something we don't want to see it gets pushed way down.,2286.0,2292.0,26,Elon_test
+452, Yeah just put basically the bad stuff gets pushed way down and and and then crime self paying and then they stop trying to do all these things.,2292.0,2301.0,31,Elon_test
+453, And we can recruit them as engineers to program for us crime guys.,2301.0,2305.0,16,Elon_test
+454, So I mean the joke is like what's the best place to hide a dead body would be the second page of Google search results.,2305.0,2314.0,29,Elon_test
+455, Nobody ever goes there.,2314.0,2318.0,7,Elon_test
+456, So today we fired half of Twitter and that should save us what for Bay in a year.,2318.0,2328.0,21,Elon_test
+457, No it's not going to save 4 billion a year I wish but so to be frank Twitter was having pretty serious revenue challenges and cost challenges before the acquisition talks started and any company that is dependent on advertising has had a hard time.,2328.0,2350.0,49,Elon_test
+458, So if you look at say snap or you know Google Facebook why not they will had a difficult time with advertising revenue dropping and Twitter is more currently more vulnerable than they are to advertising because most of Twitter's advertising is large brand advertising as opposed to direct response.,2350.0,2374.0,54,Elon_test
+459, So it's kind of like a much more discretionary ad spend than it is for like if you if you if you can do direct response for a specific product.,2374.0,2388.0,35,Elon_test
+460, So and then we also recently had a lot of difficulty with activist groups pressuring major advertisers to stop spending money on Twitter.,2388.0,2401.0,27,Elon_test
+461, This is despite us doing everything possible to appease them and to make it clear that moderation rules and hateful content rules have not changed and we're continuing to enforce them.,2401.0,2412.0,37,Elon_test
+462, So the number of major advertisers have stopped spending on Twitter.,2412.0,2418.0,14,Elon_test
+463, But this is this doesn't seem right because we've made no change in our operations at all and but nonetheless the activist groups have been successful in causing a massive drop in Twitter advertising revenue and we've done our absolute best to appease them and nothing is working.,2418.0,2440.0,55,Elon_test
+464, So this is a major concern and I think this is frankly an attack on the first amendment.,2440.0,2447.0,21,Elon_test
+465, Like if activist groups can pressure advertisers upon which Twitter is fundamentally dependent to you know suppress free speech then that doesn't seem right.,2447.0,2468.0,28,Elon_test
+466, So I went by the way 400 million instead of 4 billion. I meant actually 400 million instead of 4 billion.,2468.0,2477.0,25,Elon_test
+467, Okay so so we're now there living at this place you go there for next couple three weeks you can devote and then we have a team lined up you think you have a team lined up to manage it and then you would just do it the same way we do with space action test though where you just attend the meetings regularly say this is what we need to do.,2477.0,2497.0,76,Elon_test
+468, Do it.,2497.0,2502.0,5,Elon_test
+469, Well this is what we need.,2502.0,2505.0,9,Elon_test
+470, Yeah my workload went up from about on our 70 to 8 hours a week to probably 120.,2505.0,2514.0,21,Elon_test
+471, So yeah I got to sleep a wake up I work.,2514.0,2519.0,14,Elon_test
+472, We're asleep wake up work do that seven days a week. I'll have to do that for a while no choice.,2519.0,2527.0,27,Elon_test
+473, But I think once Twitter is set on the right path I think it is a much easier thing to manage than SpaceX or Tesla.,2527.0,2535.0,28,Elon_test
+474, So and I really understand the internet and how to make so I wrote software for 20 years.,2535.0,2549.0,21,Elon_test
+475, You know it's one of the key people behind.,2549.0,2555.0,13,Elon_test
+476, So I also like I'm aware of like I know how to make a way better paypal.,2555.0,2567.0,22,Elon_test
+477, Yeah yeah very much.,2567.0,2572.0,7,Elon_test
+478, I mean with a lot of other people but there's there's a product plan I wrote which I wish I'd kept to copy over in July of 2000 where I thought it would be possible to make the most valuable financialists.,2572.0,2584.0,48,Elon_test
+479, And we're going to execute that plan from 22 years ago which amazingly no one has done.,2584.0,2594.0,21,Elon_test
+480, And so I think that's why part of why I think Twitter will be ultimately extremely valuable because I'm going to execute the X.com game plan from 22 years ago.,2594.0,2610.0,37,Elon_test
+481, And I think we're also going to obviously make Twitter st way better system.,2610.0,2620.0,18,Elon_test
+482, I mean it's a sense reason that you know if if the social media company is not taking steps to make it positive to be on that social path foam then people won't come or they'll leave.,2620.0,2639.0,43,Elon_test
+483, You know so you speak of sort of anti-submortism or racism or anything like that.,2639.0,2644.0,23,Elon_test
+484, Well I mean if who's going to stay on a platform if that's prevalent like that's obviously.,2644.0,2650.0,23,Elon_test
+485, Yeah come on and it's inherent wrongness if who's going to stay on the platform.,2650.0,2656.0,21,Elon_test
+486, So you want to be it needs to be something where like I go with Twitter is like how do we get 80% of America?,2656.0,2665.0,29,Elon_test
+487, Maybe not like the sort of far left and the far right but and maybe we don't want to necessarily but how do we get 80% of the public to join a digital town square and voice their opinion and exchange ideas and maybe once in a while change their minds.,2665.0,2684.0,56,Elon_test
+488, And occasion.,2684.0,2685.0,5,Elon_test
+489, Yeah I mean once in a while.,2685.0,2689.0,10,Elon_test
+490, So red also that you said and then we'll move off the Twitter but you said that your goal is you want to make the 20% of people who are on far right.,2689.0,2698.0,38,Elon_test
+491, I hate you just like you want to make the 20% of people on the far left hate you so well I don't want them to hate me.,2698.0,2708.0,33,Elon_test
+492, But I but I think the extremist like you know it's just very difficult to satisfy extremists.,2708.0,2714.0,23,Elon_test
+493, So unless you fully buy into whatever their dog may is so.,2714.0,2721.0,15,Elon_test
+494, But I think I'm confident we can satisfy like I don't know 80% of America 80% of the world and but maybe not the most the 10% most extreme of either side and I would count that as a great outcome.,2721.0,2734.0,49,Elon_test
+495, And I think it I think it is important to have sort of a digital town square where people feel comfortable talking.,2734.0,2742.0,25,Elon_test
+496, And I also think it's like one of the things is important is to be able to sort of decide what kind of experience you want to have on Twitter.,2742.0,2751.0,34,Elon_test
+497, Because you know some people was might say okay like I want the like this was a radio station.,2751.0,2756.0,22,Elon_test
+498, I want the easy listening smooth jazz station.,2756.0,2759.0,11,Elon_test
+499, Okay cool but that's that's so you feel to have that setting for have that setting for Twitter and and and then some people might say like no I want heavy metal trash.,2759.0,2769.0,38,Elon_test
+500, And and like okay so now this is going to be sort of then you then you don't mind someone saying mean things to you you know within the context of the law.,2769.0,2777.0,37,Elon_test
+501, And you don't mind engaging in in vigorous arguments on Twitter that kind of thing.,2777.0,2782.0,20,Elon_test
+502, But you're built to that kind of like pick pick your preference and and decide if if you want sort of full contact battle or or or do you want like no I just want to look at puppies and flowers and nice landscapes and stuff.,2782.0,2796.0,50,Elon_test
+503, So so so let's go off Twitter.,2796.0,2799.0,11,Elon_test
+504, Two other topics where he has some questions.,2799.0,2803.0,11,Elon_test
+505," The number one is logistics when we're starting to to make so many cars by the end of this year 40,000 is 40,000 cars a week.",2803.0,2816.0,34,Elon_test
+506," I mean after being careful of MNPI but I believe I have said in the past publicly that our aspiration is to reach 40,000 a week by the end of this year.",2816.0,2825.0,39,Elon_test
+507, And doing that then that means that I'm producing car to 15 seconds.,2825.0,2831.0,17,Elon_test
+508, Yeah.,2831.0,2832.0,4,Elon_test
+509, And so but that's still only two million cars a year and there's a hundred million cars that are made a year.,2832.0,2841.0,27,Elon_test
+510, And so the question so presumably capacity to be able to logistics to ship all these cars all over the place to have people pick them up where they want them.,2841.0,2852.0,34,Elon_test
+511, But not if they all do them in the same week.,2852.0,2855.0,14,Elon_test
+512, Yes totally. So I mean we're a bit of criticism from our Q3 results because we had a lot of cars and transit.,2855.0,2865.0,29,Elon_test
+513, And the reason was that we got too big for our cars to actually be transported in the final few weeks.,2865.0,2872.0,24,Elon_test
+514, There's word enough car carriers and word enough ships.,2872.0,2875.0,13,Elon_test
+515, So but it's actually good it's actually good in the long run to to smooth out deliveries and actually have cars and transit into the quarter.,2875.0,2886.0,31,Elon_test
+516, Because then you're not rushing to get everything delivered by the end of the quarter and paying all these expedite fees.,2886.0,2893.0,26,Elon_test
+517, So my question though is if we have autonomous driving and we have autonomous trucks is that one of the ideas that we're going to be able to move things around with our own with the not enough drivers that we're going to have autonomous transport.,2893.0,2906.0,51,Elon_test
+518, Yes.,2906.0,2907.0,4,Elon_test
+519, That's question one.,2907.0,2908.0,7,Elon_test
+520, We can also yeah I mean have if you're in the if you're in the area of how the car just drive to you.,2908.0,2915.0,29,Elon_test
+521, That's one and the other one is about materials and when all of a sudden so we have somehow navigated supply chain problems from other people.,2915.0,2926.0,31,Elon_test
+522, And you might have thought that it was the absolute brilliance that we had to be able to do that.,2926.0,2931.0,24,Elon_test
+523, But probably the reason is that when you start off and you don't make any cars a year and you go to so many say we're going to make 20 million cars a year from zero.,2931.0,2940.0,41,Elon_test
+524, Who's going to believe you and make all the equipment that we need so as a result of that you were forced initially to be able to say okay we're going to get you know we're vertically integrate we can't rely on you both vertically integration.,2940.0,2954.0,53,Elon_test
+525, And yeah.,2954.0,2956.0,5,Elon_test
+526, Cut it.,2956.0,2958.0,5,Elon_test
+527, I can talk longer if you'd like.,2958.0,2960.0,11,Elon_test
+528, Don't shoot the messenger.,2960.0,2962.0,8,Elon_test
+529, Talk a little bit longer.,2962.0,2965.0,8,Elon_test
+530, Materials how so we have to all we we anyone want to show us a mine.,2965.0,2970.0,20,Elon_test
+531, We got people in mines to fake you know who are knowledgeable and they come to say we can produce this much lithium this much copper this much.,2970.0,2978.0,31,Elon_test
+532, We are able to assess that and give contracts to be able to say contractual agreements.,2978.0,2985.0,20,Elon_test
+533, Okay and they'll and they'll rely on our agreement other people they won't.,2985.0,2990.0,19,Elon_test
+534, Is that fair and glencore the.,2990.0,2993.0,11,Elon_test
+535, Well the scaling constraints change as time goes by and in the beginning we we were just very vertically integrated because suppliers didn't take us seriously like we could get hardly any of the a of the best suppliers wouldn't talk to us because the car startup has not been successful in the United States since Chrysler in the 20s I believe they started.,2993.0,3017.0,72,Elon_test
+536, We've been a centuries since the car company was successful in the US that was not a not a foreign company coming in with that was already successful in their home market.,3017.0,3025.0,36,Elon_test
+537, So but for an American car startup it was the first to tell us about success in a hundred years.,3025.0,3030.0,23,Elon_test
+538, So you can imagine if you're an auto supplier that doesn't sound like a smart financial decision.,3030.0,3035.0,22,Elon_test
+539, Exactly.,3035.0,3036.0,4,Elon_test
+540, So then we we had to do just a lot of stuff ourselves be vertical integrated or we couldn't create the car.,3036.0,3045.0,26,Elon_test
+541, So that ended up being an asset because now we understood so much about the entire supply chain or what it took to build a car.,3045.0,3053.0,29,Elon_test
+542, So we were able to design a more integrated vehicle that that actually needed far fewer parts and cost less and ways less than has higher performance.,3053.0,3068.0,30,Elon_test
+543, But it is looking increasingly like for some of the critical elements of batteries that Tesla will will need to get into the mining business mining and refining.,3068.0,3078.0,32,Elon_test
+544, That's why Glencore was announced that's where we're talking to Glencore.,3078.0,3082.0,19,Elon_test
+545, We were.,3082.0,3083.0,5,Elon_test
+546," No, and we're we've never contemplated investing in Glencore.",3083.0,3088.0,17,Elon_test
+547, I'm talking about Tesla doing it ourselves.,3088.0,3092.0,11,Elon_test
+548, Yes.,3092.0,3093.0,4,Elon_test
+549, Transmissions questions from the audience.,3094.0,3096.0,10,Elon_test
+550, Just give me a couple.,3096.0,3098.0,8,Elon_test
+551, Turn in the lights.,3098.0,3100.0,7,Elon_test
+552, Two questions.,3100.0,3104.0,5,Elon_test
+553, Two questions.,3104.0,3105.0,5,Elon_test
+554, Two and a.,3105.0,3106.0,6,Elon_test
+555, Who's there?,3106.0,3107.0,6,Elon_test
+556, The power of that being.,3107.0,3108.0,8,Elon_test
+557, I'll do it anyway.,3108.0,3109.0,8,Elon_test
+558," I mean, is it from me or you?",3109.0,3110.0,12,Elon_test
+559, I don't know.,3110.0,3112.0,7,Elon_test
+560, Questions.,3112.0,3113.0,4,Elon_test
+561," So by the way, if you leave before we give away the door prizes which were two Teslas,",3113.0,3121.0,23,Elon_test
+562, you're not eligible to get the Teslas.,3121.0,3123.0,12,Elon_test
+563, But go ahead.,3123.0,3124.0,6,Elon_test
+564, I gave an extra one once.,3124.0,3128.0,9,Elon_test
+565, I guess it's the last time.,3128.0,3130.0,10,Elon_test
+566, But we're not going to do that again.,3130.0,3132.0,12,Elon_test
+567, You got to be in your seat in order to get the Teslas.,3132.0,3135.0,17,Elon_test
+568, I'm paying for it.,3135.0,3136.0,8,Elon_test
+569, Not you.,3136.0,3137.0,5,Elon_test
+570, Not you.,3137.0,3138.0,5,Elon_test
+571, Questions.,3138.0,3139.0,4,Elon_test
+572, Ealing.,3139.0,3147.0,5,Elon_test
+573," Sanika once said, every genius has a touch of madness.",3147.0,3153.0,15,Elon_test
+574, I thought you'd like that quote.,3153.0,3155.0,10,Elon_test
+575, But I agree with the madness part.,3155.0,3159.0,10,Elon_test
+576," So even with Tesla as a publicly traded company, I think it's down 40% or something from its high,",3159.0,3168.0,25,Elon_test
+577, and I think that's what I think is selling at 70 times earnings.,3168.0,3174.0,17,Elon_test
+578," Meanwhile, Mercedes-Benz, which now produces EVs, is selling for six times earnings and yielding 5%.",3174.0,3183.0,26,Elon_test
+579, Why should I invest in Tesla rather than Mercedes-Benz?,3183.0,3189.0,15,Elon_test
+580," Well, I actually rarely try to convince anyone to invest in Tesla.",3189.0,3197.0,16,Elon_test
+581," Many times I've recommended people don't invest in Tesla, and I've said our stock is too high.",3197.0,3203.0,24,Elon_test
+582, But then people just ignore me and keep buying the stock.,3203.0,3206.0,14,Elon_test
+583, It's a reason.,3206.0,3208.0,7,Elon_test
+584," So, I think at a very high level, I'd say that autonomy is an insanely fundamental breakthrough.",3208.0,3220.0,23,Elon_test
+585," And no one is even close to Tesla for solving generalized autonomy, generalized self-driving vehicles.",3220.0,3228.0,21,Elon_test
+586, No one's even close.,3228.0,3230.0,8,Elon_test
+587," And with self-driving, as I was talking about earlier, the car becomes, quote, roughly five times more useful,",3230.0,3239.0,27,Elon_test
+588, but it costs the same to build.,3239.0,3241.0,10,Elon_test
+589," Now, can you imagine what would happen if the company was doing, we're doing like a 25% or 30% gross margins.",3241.0,3248.0,29,Elon_test
+590," But suddenly, that same thing was five times more valuable.",3248.0,3256.0,14,Elon_test
+591, What would that do to the value of Tesla?,3256.0,3260.0,12,Elon_test
+592, And the value of that car?,3260.0,3262.0,9,Elon_test
+593," The bug was the mind, actually.",3262.0,3266.0,10,Elon_test
+594," So, you know, if you think of net present value of future cash flows,",3266.0,3272.0,19,Elon_test
+595," if you actually do the math on that, it's insane.",3272.0,3276.0,15,Elon_test
+596," Then there's also the Optimus program, which is our humanoid robot,",3276.0,3282.0,18,Elon_test
+597, which we will leverage our manufacturing expertise and the intelligence we've developed for self-driving to have a useful humanoid robot.,3282.0,3294.0,27,Elon_test
+598," Now, the economy is fundamentally GDP per capita times capita.",3294.0,3299.0,14,Elon_test
+599," If you no longer have a constraint on capita because it would be useful humanoid robot,",3299.0,3303.0,20,Elon_test
+600, it is not clear that there's any limit to the size of the economy.,3303.0,3310.0,18,Elon_test
+601, And these things will actually happen.,3310.0,3318.0,9,Elon_test
+602, So...,3318.0,3321.0,4,Elon_test
+603," Okay, that's probably a good reason.",3321.0,3324.0,11,Elon_test
+604, That one more question.,3324.0,3331.0,7,Elon_test
+605," Okay, bring that to your side.",3331.0,3334.0,10,Elon_test
+606," Okay, this is the last question.",3334.0,3338.0,10,Elon_test
+607, Maybe.,3338.0,3341.0,4,Elon_test
+608, Go ahead.,3341.0,3346.0,5,Elon_test
+609," Given all the cars that you're going to make,",3346.0,3352.0,13,Elon_test
+610," and I hope Ron's right, whether it's 10 million or 20 million,",3352.0,3356.0,18,Elon_test
+611, you're going to need a lot of charging stations around the world.,3356.0,3362.0,16,Elon_test
+612, Yes.,3362.0,3364.0,4,Elon_test
+613, Have you thought about doing it more efficiently and more economically and better for our ecosystem from an ESG perspective?,3364.0,3377.0,24,Elon_test
+614, Because you may or may not know there are 400 million existing streetlights in the world.,3377.0,3385.0,20,Elon_test
+615," And every streetlight has pervasive, persistent electricity.",3385.0,3391.0,13,Elon_test
+616," You could take some amount of those streetlights, which are half-owned by utilities,",3391.0,3397.0,20,Elon_test
+617," and half-owned by cities, and repurpose that.",3397.0,3402.0,14,Elon_test
+618, And that would probably be the most cost-efficient way to roll out millions of charging stations all over the world.,3402.0,3411.0,26,Elon_test
+619," Well, thanks.",3411.0,3413.0,6,Elon_test
+620, I think they actually are using that idea in London and some other cities.,3413.0,3418.0,17,Elon_test
+621," But I mean, I think the long-term goal for us supercharger stations is that they all have solar,",3418.0,3425.0,25,Elon_test
+622," like Tesla solar and batteries at them, so that they are as many as possible,",3425.0,3430.0,19,Elon_test
+623," are self-sustaining, that the supercharger stations generate the energy during the day,",3430.0,3435.0,21,Elon_test
+624, and then also have a localized battery pack to so that people can charge at night.,3435.0,3441.0,19,Elon_test
+625, So that the Tesla supercharging stations would continue to function even in a zombie apocalypse.,3441.0,3448.0,20,Elon_test
+626," So, just never know. That's coming one day. We know it.",3448.0,3451.0,18,Elon_test
+627, It's just a matter of time.,3451.0,3456.0,10,Elon_test
+628, Thank you very much. Thank you to Silky with you.,3456.0,3459.0,15,Elon_test
+629, Silky?,3459.0,3461.0,5,Elon_test
+630, A post that on Twitter.,3466.0,3468.0,8,Elon_test
+631, Your arms are longer than mine.,3474.0,3476.0,9,Elon_test
+632," Also, please use Twitter.",3476.0,3480.0,8,Elon_test
+633," And please subscribe to Twitter Verified, 8 bucks,",3480.0,3486.0,13,Elon_test
+634," and actually it's technically at 7.99, so slightly less.",3486.0,3491.0,16,Elon_test
+635," But I'd really encourage everyone here to use Twitter and, you know,",3491.0,3499.0,17,Elon_test
+636," yeah, please do that.",3499.0,3501.0,8,Elon_test
+637, Here we go.,3501.0,3504.0,6,Elon_test
+638, How do we do this?,3506.0,3507.0,8,Elon_test
+639, We're going to switch around.,3507.0,3510.0,9,Elon_test
+640, Okay.,3510.0,3513.0,4,Elon_test
+641, Thank you very much.,3513.0,3516.0,7,Elon_test
+642, Thank you very much.,3516.0,3519.0,7,Elon_test
+643, I really appreciate it.,3519.0,3522.0,7,Elon_test
+644, Are you staying around in the community?,3522.0,3526.0,10,Elon_test
+645, That's it for the delivery of the position.,3526.0,3529.0,12,Elon_test
